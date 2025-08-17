@@ -1,1 +1,131 @@
-{"address":"2800 Northeast 16th Avenue, Wilton Manors, FL, USA","geoCode":{"lat":26.1625044,"lng":-80.1262402},"mapImageUrl":"https://storage.googleapis.com/hostrapp_public/BlmK2BhX1kM1icOUMWzXYR8wQUO2/villa/map.png","googleMapsUrl":"","nearbyCategories":[{"category":"Dining","place_type":"restaurant","description":"Wilton Manors offers a diverse culinary scene within walking distance. Enjoy upscale French cuisine at La Crepe Bistro (0.4 miles), savor authentic Italian flavors at Louie Bossi Ristorante (0.6 miles), or indulge in modern American fare at The Blue Moon (0.7 miles).","notable_places":["La Crepe Bistro","Louie Bossi Ristorante","The Blue Moon"],"image_prompt":"A photorealistic image of a charming outdoor patio at a restaurant in Wilton Manors, Florida, with fairy lights and lush greenery.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-mM4P98I7mgukdQjy7vvn6CS1.png?st=2025-02-02T18%3A26%3A35Z&se=2025-02-02T20%3A26%3A35Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A42%3A45Z&ske=2025-02-03T00%3A42%3A45Z&sks=b&skv=2024-08-04&sig=bEYHV/fTy3zM2AYOxViwoJmISXkf3eZ6NPaeJzMx6Wg%3D"},{"category":"Coffee","place_type":"cafe","description":"Start your day with a caffeine fix from local cafes like The Grind (0.3 miles), offering specialty coffee and pastries, or Crema Coffee & Tea (0.5 miles), known for its cozy atmosphere and unique blends.","notable_places":["The Grind","Crema Coffee & Tea"],"image_prompt":"A photorealistic image of a modern cafe in Wilton Manors, Florida, with exposed brick walls, comfortable seating, and a variety of coffee drinks on display.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-TOJQld49ZcUwttrLtPG6nCfZ.png?st=2025-02-02T18%3A26%3A47Z&se=2025-02-02T20%3A26%3A47Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A43%3A14Z&ske=2025-02-03T00%3A43%3A14Z&sks=b&skv=2024-08-04&sig=GAUF5PbNtruDgT5etgTSkbPPB%2Bbd2h9QsjaDV/zzslQ%3D"},{"category":"Attractions","place_type":"tourist_attraction","description":"Immerse yourself in the vibrant culture of Wilton Manors. Explore the Stonewall National Museum & Archives (0.8 miles), dedicated to LGBTQ+ history, or visit the scenic Colohatchee Park (0.9 miles), perfect for picnics and nature walks.","notable_places":["Stonewall National Museum & Archives","Colohatchee Park"],"image_prompt":"A photorealistic image of the Stonewall National Museum & Archives in Wilton Manors, Florida, with a rainbow flag prominently displayed.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-h9b3bKpQl7RXi0tJOUq8Hwoo.png?st=2025-02-02T18%3A27%3A05Z&se=2025-02-02T20%3A27%3A05Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A34%3A35Z&ske=2025-02-03T00%3A34%3A35Z&sks=b&skv=2024-08-04&sig=fGWOsgn9tFwOAnO/weVHPYoQWvk4jdaf90OZGgbGFsY%3D"},{"category":"Activities","place_type":"amusement_park","description":"Embark on thrilling adventures at Xtreme Action Park (1.1 miles), featuring go-karts, mini-golf, and laser tag. For a unique experience, visit the Escape Room Fort Lauderdale (1.2 miles) and test your problem-solving skills.","notable_places":["Xtreme Action Park","Escape Room Fort Lauderdale"],"image_prompt":"A photorealistic image of a group of people having fun at Xtreme Action Park in Wilton Manors, Florida, riding go-karts and playing mini-golf.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-UUfxW5YsMcTk8zJiPMS4tDdP.png?st=2025-02-02T18%3A27%3A19Z&se=2025-02-02T20%3A27%3A19Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A30%3A27Z&ske=2025-02-03T00%3A30%3A27Z&sks=b&skv=2024-08-04&sig=QPgutjqTO68yzW8mhi46xnRI3gNEmDunCtterRuv5i0%3D"},{"category":"Recreational","place_type":"park","description":"Relax and rejuvenate at Hugh Taylor Birch State Park (1.3 miles), offering stunning natural landscapes, hiking trails, and kayaking opportunities. For a more urban experience, visit Wilton Manors' Village Green (0.5 miles), ideal for leisurely strolls and people-watching.","notable_places":["Hugh Taylor Birch State Park","Wilton Manors' Village Green"],"image_prompt":"A photorealistic image of a couple enjoying a picnic at Hugh Taylor Birch State Park in Wilton Manors, Florida, with a view of the Intracoastal Waterway.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-PzVi25nJWGJcsXXRVp9s91wD.png?st=2025-02-02T18%3A27%3A33Z&se=2025-02-02T20%3A27%3A33Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T01%3A02%3A47Z&ske=2025-02-03T01%3A02%3A47Z&sks=b&skv=2024-08-04&sig=HHMPyAhgmbL/c4YfvloVn9pOOe8kHaxodstiWtdo7EY%3D"},{"category":"Shopping","place_type":"shopping_mall","description":"Treat yourself to a shopping spree at The Galleria at Fort Lauderdale (1.5 miles), a renowned mall with high-end boutiques and department stores. For unique finds and local crafts, explore the Wilton Manors Antique Market (0.7 miles).","notable_places":["The Galleria at Fort Lauderdale","Wilton Manors Antique Market"],"image_prompt":"A photorealistic image of the interior of The Galleria at Fort Lauderdale, Florida, showcasing luxury brands and a stylish atmosphere.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-8yCN5E2jmvVUjIQWk2DOXn6z.png?st=2025-02-02T18%3A27%3A44Z&se=2025-02-02T20%3A27%3A44Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A31%3A06Z&ske=2025-02-03T00%3A31%3A06Z&sks=b&skv=2024-08-04&sig=dhAKeQm8m1iYIeVLOhpSOf%2BiERkokPGThzeE%2BjsEc98%3D"},{"category":"Convenience","place_type":"grocery_or_supermarket","description":"Stock up on essentials and groceries at Publix Super Market (0.4 miles), conveniently located within walking distance. For a wider selection, visit Whole Foods Market (1.0 miles).","notable_places":["Publix Super Market","Whole Foods Market"],"image_prompt":"A photorealistic image of a well-stocked grocery store in Wilton Manors, Florida, with fresh produce, a variety of packaged goods, and friendly staff.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-e23q54e5awvaWgzct2Gjk6xk.png?st=2025-02-02T18%3A27%3A57Z&se=2025-02-02T20%3A27%3A57Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A42%3A08Z&ske=2025-02-03T00%3A42%3A08Z&sks=b&skv=2024-08-04&sig=BxHUSvf%2Balv43y2PVGZaKTktqeyveY/uaeylUMMaOfM%3D"},{"category":"Transportation Hubs","place_type":"airport","description":"Fort Lauderdale-Hollywood International Airport (FLL) is situated approximately 8 miles away, offering convenient domestic and international flights. For train services, the nearest station is Fort Lauderdale Amtrak Station (11 miles away).","notable_places":["Fort Lauderdale-Hollywood International Airport (FLL)","Fort Lauderdale Amtrak Station"],"image_prompt":"A photorealistic image of the Fort Lauderdale-Hollywood International Airport (FLL) terminal, with airplanes taking off and landing.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-1wQyiRMfKUokZgvuloOE6ulR.png?st=2025-02-02T18%3A28%3A12Z&se=2025-02-02T20%3A28%3A12Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A26%3A48Z&ske=2025-02-03T00%3A26%3A48Z&sks=b&skv=2024-08-04&sig=34t3/jPW8jdjuU0LifrfMTRvv2vC6gcSBYcof2Sg9pc%3D"},{"category":"Other Services","place_type":"spa","description":"Indulge in pampering treatments at The Spa at The Westin Fort Lauderdale (1.4 miles), offering a range of massages, facials, and body treatments. For a more holistic approach, visit The Yoga Studio of Wilton Manors (0.6 miles), providing yoga classes and meditation sessions.","notable_places":["The Spa at The Westin Fort Lauderdale","The Yoga Studio of Wilton Manors"],"image_prompt":"A photorealistic image of a luxurious spa treatment room at The Spa at The Westin Fort Lauderdale, Florida, with candles, soft lighting, and a serene atmosphere.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-RL7aE2eEJuwXgc3d04ALH1fu.png?st=2025-02-02T18%3A28%3A26Z&se=2025-02-02T20%3A28%3A26Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A41%3A45Z&ske=2025-02-03T00%3A41%3A45Z&sks=b&skv=2024-08-04&sig=jXKbRvgbEubhZWfp72NQR%2BWVoImo8RFkOkKzdcfWqUM%3D"}]}
+{
+  "address": "Belgrave Square, London SW1X 8PH, United Kingdom",
+  "geoCode": {
+    "lat": 51.4998818,
+    "lng": -0.1540759
+  },
+  "mapImageUrl": "https://storage.googleapis.com/hostrapp_public/BlmK2BhX1kM1icOUMWzXYR8wQUO2/bellingham-palace/map.png",
+  "googleMapsUrl": "",
+  "nearbyCategories": [
+    {
+      "category": "Fine Dining Experiences in Belgravia",
+      "place_type": "restaurant",
+      "description": "Enjoy world-class dining within a short walk or taxi ride. Offers Michelin-starred restaurants and exquisite cuisine. Average distance: 5-15 minutes walking/driving. Notable example: 'Amaya'.",
+      "notable_places": [
+        "Amaya",
+        "The Dining Room at The Goring",
+        "Petrus by Gordon Ramsay"
+      ],
+      "image_prompt": "Photorealistic image of an elegantly set table in a Michelin-starred restaurant in Belgravia, London. Soft lighting, crystal glassware, and impeccably dressed waitstaff are visible. Focus on the exquisite presentation of the food.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-dxddxRYuxXcVBPCIpkLy2ih4.png?st=2025-08-17T22%3A36%3A53Z&se=2025-08-18T00%3A36%3A53Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-17T09%3A00%3A55Z&ske=2025-08-18T09%3A00%3A55Z&sks=b&skv=2024-08-04&sig=QXTzva2zyUv7s5vUOU/pXIkvcqBA467fUHK8pW/nu9o%3D"
+    },
+    {
+      "category": "Charming Coffee Shops and Cafes for Relaxing",
+      "place_type": "cafe",
+      "description": "Find cozy cafes for a morning coffee or afternoon tea, all within easy reach. Average distance: 5-10 minutes walking. Notable example: 'Peggy Porschen Cakes'.",
+      "notable_places": [
+        "Peggy Porschen Cakes",
+        "The Lanesborough Grill",
+        "The Coffee Shop at Thomas Cubitt"
+      ],
+      "image_prompt": "Photorealistic image of a charming cafe interior in Belgravia, London. Sunlight streams through the windows, illuminating pastel-colored cakes and steaming coffee cups. Patrons are casually dressed and enjoying their beverages. 'Peggy Porschen Cakes' style aesthetics.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-QyzgNJmbl54xeURNrfZD3lyU.png?st=2025-08-17T22%3A37%3A08Z&se=2025-08-18T00%3A37%3A08Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=ed3ea2f9-5e38-44be-9a1b-7c1e65e4d54f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-17T10%3A34%3A30Z&ske=2025-08-18T10%3A34%3A30Z&sks=b&skv=2024-08-04&sig=8FQvg/SBNlu/HgNlov62f9W4FlQ0em9mXx5cxU/lF24%3D"
+    },
+    {
+      "category": "Iconic London Tourist Attractions",
+      "place_type": "tourist_attraction",
+      "description": "Explore famous landmarks and attractions within a reasonable distance by public transport or taxi. Average distance: 10-30 minutes driving/public transport. Notable example: 'Buckingham Palace'.",
+      "notable_places": [
+        "Buckingham Palace",
+        "Hyde Park",
+        "Westminster Abbey"
+      ],
+      "image_prompt": "Photorealistic image of Buckingham Palace in London on a sunny day. The Royal Standard is flying, and tourists are gathered in front of the gates. Horse-drawn carriages are passing by.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-1RNiYL2pQGYvzK0ceO2A3hWh.png?st=2025-08-17T22%3A37%3A21Z&se=2025-08-18T00%3A37%3A21Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=cc612491-d948-4d2e-9821-2683df3719f5&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-17T12%3A55%3A33Z&ske=2025-08-18T12%3A55%3A33Z&sks=b&skv=2024-08-04&sig=3BlOiQTGW/Pe3ByAP5si7i60qrBN3IZ3jEESgpgXups%3D"
+    },
+    {
+      "category": "Royal Parks and Green Spaces for Recreation",
+      "place_type": "park",
+      "description": "Enjoy leisurely walks, picnics, and outdoor activities in nearby parks. Average distance: 5-15 minutes walking. Notable example: 'Hyde Park'.",
+      "notable_places": [
+        "Hyde Park",
+        "Green Park",
+        "St. James's Park"
+      ],
+      "image_prompt": "Photorealistic image of a sunny afternoon in Hyde Park, London. People are picnicking on the grass, children are playing, and boats are sailing on the Serpentine lake. Lush green trees and flowers are in full bloom.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-DkejehN0bb30iwzwP6NdZZTM.png?st=2025-08-17T22%3A37%3A34Z&se=2025-08-18T00%3A37%3A34Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=ed3ea2f9-5e38-44be-9a1b-7c1e65e4d54f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-17T23%3A37%3A34Z&ske=2025-08-18T23%3A37%3A34Z&sks=b&skv=2024-08-04&sig=Hp0Rgws9CzszullZxuBZNp9etymDSZw/pkjg%2BgdXVbY%3D"
+    },
+    {
+      "category": "High-End Shopping Destinations and Boutiques",
+      "place_type": "shopping_mall",
+      "description": "Discover luxury boutiques, designer stores, and high-end shopping experiences in the vicinity. Average distance: 10-20 minutes walking/driving. Notable example: 'Harrods'.",
+      "notable_places": [
+        "Harrods",
+        "Harvey Nichols",
+        "Sloane Street"
+      ],
+      "image_prompt": "Photorealistic image of the exterior of Harrods department store in London, bustling with shoppers. Luxury cars are parked outside, and the storefront displays high-end fashion and accessories.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-Tg83DTiLwim5Qb9bUplPjkjJ.png?st=2025-08-17T22%3A37%3A46Z&se=2025-08-18T00%3A37%3A46Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=cc612491-d948-4d2e-9821-2683df3719f5&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-17T23%3A37%3A46Z&ske=2025-08-18T23%3A37%3A46Z&sks=b&skv=2024-08-04&sig=fZeztTtZ83B0ibolwf1LMypvOXBG06mRdmj7SnZ/6l4%3D"
+    },
+    {
+      "category": "Convenient Grocery Stores and Supermarkets",
+      "place_type": "grocery_or_supermarket",
+      "description": "Easily access everyday essentials and groceries at nearby supermarkets. Average distance: 5-10 minutes walking. Notable example: 'Waitrose & Partners'.",
+      "notable_places": [
+        "Waitrose & Partners",
+        "Tesco Express",
+        "Sainsbury's Local"
+      ],
+      "image_prompt": "Photorealistic image of the interior of a Waitrose & Partners supermarket in London. Shoppers are browsing the aisles, selecting fresh produce, and queuing at the checkout. The store is well-lit and clean.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-bQ2oMPBYHTHnc1JfLxu29Pmb.png?st=2025-08-17T22%3A37%3A58Z&se=2025-08-18T00%3A37%3A58Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=f1dafa11-a0c2-4092-91d4-10981fbda051&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-17T12%3A00%3A22Z&ske=2025-08-18T12%3A00%3A22Z&sks=b&skv=2024-08-04&sig=T4FvKJj%2Bk6gB7/0/85m4GhDTibhYGLtJLcXSEAIAXcQ%3D"
+    },
+    {
+      "category": "Essential Transportation Hubs and Services",
+      "place_type": "train_station",
+      "description": "Access train stations, bus stops, and taxi services for convenient travel around London. Average distance: 10-20 minutes walking/driving. Notable example: 'Victoria Station'.",
+      "notable_places": [
+        "Victoria Station",
+        "Sloane Square Underground Station",
+        "Victoria Coach Station"
+      ],
+      "image_prompt": "Photorealistic image of the bustling interior of Victoria Station in London. Passengers are rushing to catch trains, taxis are waiting outside, and information boards display departure times.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-FUOVyGzUA55O5SWoMO1W8FEO.png?st=2025-08-17T22%3A38%3A09Z&se=2025-08-18T00%3A38%3A09Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-17T23%3A38%3A09Z&ske=2025-08-18T23%3A38%3A09Z&sks=b&skv=2024-08-04&sig=mKac3348bHIa4JNYfsBeTtx8orN2VGfRFb84Jwvfzrc%3D"
+    },
+    {
+      "category": "Pharmacies and Healthcare Services",
+      "place_type": "pharmacy",
+      "description": "Easily access pharmacies and healthcare services for any medical needs. Average distance: 5-10 minutes walking. Notable example: 'Boots'.",
+      "notable_places": [
+        "Boots",
+        "LloydsPharmacy",
+        "Well Pharmacy"
+      ],
+      "image_prompt": "Photorealistic image of the storefront of a Boots pharmacy in London. The window displays healthcare products and beauty items. People are entering and exiting the store.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-goh1WtpNQg3B5zq0vJAVzaxh.png?st=2025-08-17T22%3A38%3A24Z&se=2025-08-18T00%3A38%3A24Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-17T20%3A59%3A34Z&ske=2025-08-18T20%3A59%3A34Z&sks=b&skv=2024-08-04&sig=jn8fbReJEvlkRz2yhXRxCfi%2BYWUwyWKRdpmGOwTCRU4%3D"
+    },
+    {
+      "category": "Local Pubs and Traditional British Bars",
+      "place_type": "bar",
+      "description": "Experience traditional British pub culture at nearby pubs and bars. Average distance: 5-15 minutes walking. Notable example: 'The Grenadier'.",
+      "notable_places": [
+        "The Grenadier",
+        "The Nag's Head",
+        "The Alfred Tennyson"
+      ],
+      "image_prompt": "Photorealistic image of the interior of a traditional British pub in Belgravia, London. A roaring fireplace, wooden beams, and cozy seating create a warm atmosphere. Patrons are enjoying pints of beer and conversation.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-VLUisY4oPPHrseYudMgfstoR.png?st=2025-08-17T22%3A38%3A34Z&se=2025-08-18T00%3A38%3A34Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=ed3ea2f9-5e38-44be-9a1b-7c1e65e4d54f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-17T23%3A16%3A49Z&ske=2025-08-18T23%3A16%3A49Z&sks=b&skv=2024-08-04&sig=XTsfa3w3s3RAdyj30FjA6HZ1f8FnABz5X5tIMD9nHe0%3D"
+    },
+    {
+      "category": "Banking and Financial Services",
+      "place_type": "bank",
+      "description": "Access banking services and ATMs at nearby branches. Average distance: 5-10 minutes walking. Notable example: 'Barclays'.",
+      "notable_places": [
+        "Barclays",
+        "HSBC",
+        "NatWest"
+      ],
+      "image_prompt": "Photorealistic image of the storefront of a Barclays bank branch in Belgravia, London. An ATM is visible outside, and people are entering and exiting the bank.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-1PznhIcYyZtL2q70AUJqH9Za.png?st=2025-08-17T22%3A38%3A50Z&se=2025-08-18T00%3A38%3A50Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=cc612491-d948-4d2e-9821-2683df3719f5&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-17T19%3A08%3A26Z&ske=2025-08-18T19%3A08%3A26Z&sks=b&skv=2024-08-04&sig=L8RV8DKizkw7NZSMF4dkgB9iY6UMoW7B9Si7moUNl0c%3D"
+    }
+  ]
+}
